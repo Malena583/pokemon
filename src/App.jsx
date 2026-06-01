@@ -1,11 +1,9 @@
-import BuscadordePeliculas from "./BuscadordePeliculas";
-import TodoList from "./TodoList";
+import PokemonSearch from "./app2";
 
 function App() {
   return (
     <div className="app">
-      <BuscadordePeliculas />
-      <TodoList />
+      <PokemonSearch />
     </div>
   );
 }
